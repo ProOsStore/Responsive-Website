@@ -1,0 +1,37 @@
+ .btn {
+    background: #007AFF;
+    color: #ffffff;
+    font-size: 15px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  ul{
+  width: 64%;
+  padding: 10px 10px;
+  list-style: none;
+  display: flex;
+  font-size: 5px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  background: #303030;
+  backdrop-filter: blur(1px);
+  cursor: pointer;
+  bottom: 5px;
+  right: 70px;
+  left: 70px;
+  justify-content: center;
+  position: fixed;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+ul li{
+  display: inline-block;
+  justify-content: center;
+}
+ul i{
+  font-size: 5px;
+}
